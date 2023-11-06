@@ -1,1 +1,1 @@
-web: java -jar target/03-ebcli-h2.jar
+web: java -jar 03-ebcli-h2.jar
