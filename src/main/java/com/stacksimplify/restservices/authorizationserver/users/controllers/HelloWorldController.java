@@ -10,13 +10,13 @@ public class HelloWorldController {
 
 	@GetMapping("/hello")
 	public String simpleHello() {
-		return "Hello World - V3";
+		return "Hello World - V10";
 	}
 	
 	
 	@GetMapping("/hello-bean")
 	public SimpleMessage helloBean() {
-		return new SimpleMessage("Hello World Bean", "V1");
+		return new SimpleMessage("Hello World Bean", "V10");
 	}
 	
 	
