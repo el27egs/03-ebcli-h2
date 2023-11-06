@@ -27,4 +27,3 @@ artifacts:
     - 'target/03-ebcli-h2.jar'
     - '.ebextensions/*'
     - 'Procfile'
-  discard-paths: yes
